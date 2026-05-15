@@ -1,6 +1,6 @@
 #  Healthcare Cost Analysis
 
-An end-to-end data analysis and predictive modelling project examining the factors that drive medical insurance charges. Using a real-world insurance dataset, the project applies exploratory data analysis, statistical correlation, patient segmentation, and a linear regression model to quantify the impact of lifestyle and demographic factors on healthcare expenditure — complemented by an interactive Power BI dashboard.
+An end-to-end data analysis and predictive modelling project examining the factors that drive medical insurance charges. Using a real-world insurance dataset, the project applies exploratory data analysis, statistical correlation, patient segmentation, and a linear regression model to quantify the impact of lifestyle and demographic factors on healthcare expenditure complemented by an interactive Power BI dashboard.
 
 ---
 
